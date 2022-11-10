@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_adaptive_layouts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_adaptive_layouts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_adaptive_layouts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/FlutterAdaptiveLayouts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/FlutterAdaptiveLayouts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/FlutterAdaptiveLayouts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_responsive_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_responsive_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-3/flutter_responsive_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/.pub" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
