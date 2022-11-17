@@ -23,6 +23,9 @@
       <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/build" />
       <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Week-2/login_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-4/startup_namer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-4/startup_namer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-4/startup_namer/.dart_tool" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
