@@ -29,6 +29,9 @@
       <excludeFolder url="file://$MODULE_DIR$/Week-2/Flutter-Animations/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Week-2/Flutter-Animations/build" />
       <excludeFolder url="file://$MODULE_DIR$/Week-2/Flutter-Animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-5/login_page/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-5/login_page/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Week-5/login_page/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
